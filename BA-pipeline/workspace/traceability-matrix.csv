@@ -1,0 +1,90 @@
+Requirement ID,Batch,Description,Platform,Solution ref,Use Case ID,Data/API/Report spec ID,Test Case ID,Trạng thái
+FR-UC-01,Batch 1,"Quản lý vai trò",Web,solution-design.md#FR-UC-01,UC-FR-UC-01,API-FR-UC-01 / ERD-FR-UC-01,TC-FR-UC-01,PASS
+FR-UC-02,Batch 1,"Quản lý phân quyền",Web,solution-design.md#FR-UC-02,UC-FR-UC-02,API-FR-UC-02 / ERD-FR-UC-02,TC-FR-UC-02,PASS
+FR-UC-03,Batch 1,"Quản lý người dùng",Web,solution-design.md#FR-UC-03,UC-FR-UC-03,API-FR-UC-03 / ERD-FR-UC-03,TC-FR-UC-03,PASS
+FR-UC-04,Batch 1,"Quản lý đơn vị",Web,solution-design.md#FR-UC-04,UC-FR-UC-04,API-FR-UC-04 / ERD-FR-UC-04,TC-FR-UC-04,PASS
+FR-UC-05,Batch 1,"Quản lý cấu hình thông báo",Web,solution-design.md#FR-UC-05,UC-FR-UC-05,API-FR-UC-05 / ERD-FR-UC-05,TC-FR-UC-05,PASS
+FR-UC-06,Batch 1,"Quản lý lịch sử tác động",Web,solution-design.md#FR-UC-06,UC-FR-UC-06,API-FR-UC-06 / ERD-FR-UC-06,TC-FR-UC-06,PASS
+FR-UC-07,Batch 1,"Quản lý lịch sử lỗi phát sinh",Web,solution-design.md#FR-UC-07,UC-FR-UC-07,API-FR-UC-07 / ERD-FR-UC-07,TC-FR-UC-07,PASS
+FR-UC-08,Batch 1,"Quản lý chính sách lưu trữ nhật ký tác động hệ thống",Web,solution-design.md#FR-UC-08,UC-FR-UC-08,API-FR-UC-08 / ERD-FR-UC-08,TC-FR-UC-08,PASS
+FR-UC-09,Batch 1,"Lưu log hệ thống",Web,solution-design.md#FR-UC-09,UC-FR-UC-09,API-FR-UC-09 / ERD-FR-UC-09,TC-FR-UC-09,PASS
+FR-UC-10,Batch 1,"Gửi thông tin log tác động/log lỗi phát sinh",Web,solution-design.md#FR-UC-10,UC-FR-UC-10,API-FR-UC-10 / ERD-FR-UC-10,TC-FR-UC-10,PASS
+FR-UC-11,Batch 1,"Thiết lập chính sách sao lưu dự phòng",Web,solution-design.md#FR-UC-11,UC-FR-UC-11,API-FR-UC-11 / ERD-FR-UC-11,TC-FR-UC-11,PASS
+FR-UC-12,Batch 1,"Đăng xuất",Web,solution-design.md#FR-UC-12,UC-FR-UC-12,API-FR-UC-12 / ERD-FR-UC-12,TC-FR-UC-12,PASS
+FR-UC-13,Batch 1,"Xem thông tin cá nhân",Web,solution-design.md#FR-UC-13,UC-FR-UC-13,API-FR-UC-13 / ERD-FR-UC-13,TC-FR-UC-13,PASS
+FR-UC-14,Batch 1,"Xem tài liệu hướng dẫn sử dụng",Web,solution-design.md#FR-UC-14,UC-FR-UC-14,API-FR-UC-14 / ERD-FR-UC-14,TC-FR-UC-14,PASS
+FR-UC-15,Batch 1,"Xem biểu đồ thống kê điều ước quốc tế, thỏa thuận quốc tế",Web,solution-design.md#FR-UC-15,UC-FR-UC-15,API-FR-UC-15 / ERD-FR-UC-15,TC-FR-UC-15,PASS
+FR-UC-16,Batch 1,"Xem biểu đồ thống kê chương trình dự án",Web,solution-design.md#FR-UC-16,UC-FR-UC-16,API-FR-UC-16 / ERD-FR-UC-16,TC-FR-UC-16,PASS
+FR-UC-17,Batch 1,"Thống kê danh sách hội thảo",Web,solution-design.md#FR-UC-17,UC-FR-UC-17,API-FR-UC-17 / ERD-FR-UC-17,TC-FR-UC-17,PASS
+FR-UC-18,Batch 1,"Xem thông báo",Web,solution-design.md#FR-UC-18,UC-FR-UC-18,API-FR-UC-18 / ERD-FR-UC-18,TC-FR-UC-18,PASS
+FR-UC-19,Batch 1,"Quản lý điều ước quốc tế",Web,solution-design.md#FR-UC-19,UC-FR-UC-19,API-FR-UC-19 / ERD-FR-UC-19,TC-FR-UC-19,PASS
+FR-UC-20,Batch 1,"Quản lý thỏa thuận quốc tế",Web,solution-design.md#FR-UC-20,UC-FR-UC-20,API-FR-UC-20 / ERD-FR-UC-20,TC-FR-UC-20,PASS
+FR-UC-21,Batch 1,"Quản lý thỏa thuận khác",Web,solution-design.md#FR-UC-21,UC-FR-UC-21,API-FR-UC-21 / ERD-FR-UC-21,TC-FR-UC-21,PASS
+FR-UC-22,Batch 1,"Triển khai điều ước quốc tế, thỏa thuận quốc tế, thỏa thuận khác",Web,solution-design.md#FR-UC-22,UC-FR-UC-22,API-FR-UC-22 / ERD-FR-UC-22,TC-FR-UC-22,PASS
+FR-UC-23,Batch 1,"Quản lý chương trình dự án",Web,solution-design.md#FR-UC-23,UC-FR-UC-23,API-FR-UC-23 / ERD-FR-UC-23,TC-FR-UC-23,PASS
+FR-UC-24,Batch 1,"Quản lý kế hoạch hàng năm",Web,solution-design.md#FR-UC-24,UC-FR-UC-24,API-FR-UC-24 / ERD-FR-UC-24,TC-FR-UC-24,PASS
+FR-UC-25,Batch 1,"Cập nhật kết quả triển khai kế hoạch hàng năm",Web,solution-design.md#FR-UC-25,UC-FR-UC-25,API-FR-UC-25 / ERD-FR-UC-25,TC-FR-UC-25,PASS
+FR-UC-26,Batch 1,"Quản lý chuyên gia trong nước",Web,solution-design.md#FR-UC-26,UC-FR-UC-26,API-FR-UC-26 / ERD-FR-UC-26,TC-FR-UC-26,PASS
+FR-UC-27,Batch 1,"Quản lý chuyên gia quốc tế",Web,solution-design.md#FR-UC-27,UC-FR-UC-27,API-FR-UC-27 / ERD-FR-UC-27,TC-FR-UC-27,PASS
+FR-UC-28,Batch 1,"Quản lý chuyên gia Việt Nam ở nước ngoài",Web,solution-design.md#FR-UC-28,UC-FR-UC-28,API-FR-UC-28 / ERD-FR-UC-28,TC-FR-UC-28,PASS
+FR-UC-29,Batch 1,"Quản lý đoàn ra do Bộ Tư Pháp chủ trì",Web,solution-design.md#FR-UC-29,UC-FR-UC-29,API-FR-UC-29 / ERD-FR-UC-29,TC-FR-UC-29,PASS
+FR-UC-30,Batch 1,"Quản lý đoàn ra tháp tùng",Web,solution-design.md#FR-UC-30,UC-FR-UC-30,API-FR-UC-30 / ERD-FR-UC-30,TC-FR-UC-30,PASS
+FR-UC-31,Batch 1,"Quản lý đoàn ra khác",Web,solution-design.md#FR-UC-31,UC-FR-UC-31,API-FR-UC-31 / ERD-FR-UC-31,TC-FR-UC-31,PASS
+FR-UC-32,Batch 1,"Cập nhật kết quả đoàn ra",Web,solution-design.md#FR-UC-32,UC-FR-UC-32,API-FR-UC-32 / ERD-FR-UC-32,TC-FR-UC-32,PASS
+FR-UC-33,Batch 1,"Quản lý đoàn vào",Web,solution-design.md#FR-UC-33,UC-FR-UC-33,API-FR-UC-33 / ERD-FR-UC-33,TC-FR-UC-33,PASS
+FR-UC-34,Batch 1,"Cập nhật kết quả đoàn vào",Web,solution-design.md#FR-UC-34,UC-FR-UC-34,API-FR-UC-34 / ERD-FR-UC-34,TC-FR-UC-34,PASS
+FR-UC-35,Batch 1,"Quản lý hội nghị, hội thảo",Web,solution-design.md#FR-UC-35,UC-FR-UC-35,API-FR-UC-35 / ERD-FR-UC-35,TC-FR-UC-35,PASS
+FR-UC-36,Batch 1,"Quản lý đề án hợp tác quốc tế về pháp luật",Web,solution-design.md#FR-UC-36,UC-FR-UC-36,API-FR-UC-36 / ERD-FR-UC-36,TC-FR-UC-36,PASS
+FR-UC-37,Batch 1,"Quản lý hoạt động khác",Web,solution-design.md#FR-UC-37,UC-FR-UC-37,API-FR-UC-37 / ERD-FR-UC-37,TC-FR-UC-37,PASS
+FR-UC-38,Batch 1,"Quản lý Báo cáo kinh nghiệm quốc tế (ngoài chương trình dự án)",Web,solution-design.md#FR-UC-38,UC-FR-UC-38,API-FR-UC-38 / ERD-FR-UC-38,TC-FR-UC-38,PASS
+FR-UC-39,Batch 1,"Quản lý khen thưởng phía Việt Nam trao",Web,solution-design.md#FR-UC-39,UC-FR-UC-39,API-FR-UC-39 / ERD-FR-UC-39,TC-FR-UC-39,PASS
+FR-UC-40,Batch 1,"Quản lý khen thưởng phía Việt Nam nhận",Web,solution-design.md#FR-UC-40,UC-FR-UC-40,API-FR-UC-40 / ERD-FR-UC-40,TC-FR-UC-40,PASS
+FR-UC-41,Batch 1,"Quản lý báo cáo thường niên, giai đoạn",Web,solution-design.md#FR-UC-41,UC-FR-UC-41,API-FR-UC-41 / ERD-FR-UC-41,TC-FR-UC-41,PASS
+FR-UC-42,Batch 1,"Quản lý báo cáo chuyên đề, đặc thù",Web,solution-design.md#FR-UC-42,UC-FR-UC-42,API-FR-UC-42 / ERD-FR-UC-42,TC-FR-UC-42,PASS
+FR-UC-43,Batch 1,"Quản lý văn bản quy phạm pháp luật",Web,solution-design.md#FR-UC-43,UC-FR-UC-43,API-FR-UC-43 / ERD-FR-UC-43,TC-FR-UC-43,PASS
+FR-UC-44,Batch 1,"Quản lý văn bản khác",Web,solution-design.md#FR-UC-44,UC-FR-UC-44,API-FR-UC-44 / ERD-FR-UC-44,TC-FR-UC-44,PASS
+FR-UC-45,Batch 1,"Quản lý chia sẻ dữ liệu",Web,solution-design.md#FR-UC-45,UC-FR-UC-45,API-FR-UC-45 / ERD-FR-UC-45,TC-FR-UC-45,PASS
+FR-UC-46,Batch 1,"Quản lý dữ liệu đồng bộ",Web,solution-design.md#FR-UC-46,UC-FR-UC-46,API-FR-UC-46 / ERD-FR-UC-46,TC-FR-UC-46,PASS
+FR-UC-47,Batch 1,"Phân loại dữ liệu",Web,solution-design.md#FR-UC-47,UC-FR-UC-47,API-FR-UC-47 / ERD-FR-UC-47,TC-FR-UC-47,PASS
+FR-UC-48,Batch 1,"Quản lý danh mục đối tác nước ngoài",Web,solution-design.md#FR-UC-48,UC-FR-UC-48,API-FR-UC-48 / ERD-FR-UC-48,TC-FR-UC-48,PASS
+FR-UC-49,Batch 1,"Quản lý danh mục quốc gia",Web,solution-design.md#FR-UC-49,UC-FR-UC-49,API-FR-UC-49 / ERD-FR-UC-49,TC-FR-UC-49,PASS
+FR-UC-50,Batch 1,"Quản lý danh mục cơ quan tổ chức trong nước",Web,solution-design.md#FR-UC-50,UC-FR-UC-50,API-FR-UC-50 / ERD-FR-UC-50,TC-FR-UC-50,PASS
+FR-UC-51,Batch 1,"Quản lý danh mục lĩnh vực hợp tác",Web,solution-design.md#FR-UC-51,UC-FR-UC-51,API-FR-UC-51 / ERD-FR-UC-51,TC-FR-UC-51,PASS
+FR-UC-52,Batch 1,"Quản lý danh mục hình thức hợp tác",Web,solution-design.md#FR-UC-52,UC-FR-UC-52,API-FR-UC-52 / ERD-FR-UC-52,TC-FR-UC-52,PASS
+FR-UC-53,Batch 1,"Quản lý danh mục loại nguồn vốn",Web,solution-design.md#FR-UC-53,UC-FR-UC-53,API-FR-UC-53 / ERD-FR-UC-53,TC-FR-UC-53,PASS
+FR-UC-54,Batch 1,"Quản lý danh mục hình thức khen thưởng",Web,solution-design.md#FR-UC-54,UC-FR-UC-54,API-FR-UC-54 / ERD-FR-UC-54,TC-FR-UC-54,PASS
+FR-UC-55,Batch 1,"Báo cáo về danh mục điều ước quốc tế, thỏa thuận quốc tế",Web,solution-design.md#FR-UC-55,UC-FR-UC-55,API-FR-UC-55 / ERD-FR-UC-55,TC-FR-UC-55,PASS
+FR-UC-56,Batch 1,"Báo cáo chương trình dự án",Web,solution-design.md#FR-UC-56,UC-FR-UC-56,API-FR-UC-56 / ERD-FR-UC-56,TC-FR-UC-56,PASS
+FR-UC-57,Batch 1,"Báo cáo tiến độ chương trình dự án",Web,solution-design.md#FR-UC-57,UC-FR-UC-57,API-FR-UC-57 / ERD-FR-UC-57,TC-FR-UC-57,PASS
+FR-UC-58,Batch 1,"Báo cáo thông tin đoàn ra",Web,solution-design.md#FR-UC-58,UC-FR-UC-58,API-FR-UC-58 / ERD-FR-UC-58,TC-FR-UC-58,PASS
+FR-UC-59,Batch 1,"Báo cáo thông tin đoàn vào",Web,solution-design.md#FR-UC-59,UC-FR-UC-59,API-FR-UC-59 / ERD-FR-UC-59,TC-FR-UC-59,PASS
+FR-UC-60,Batch 1,"Báo cáo nhân sự đi nước ngoài và chủ trì/tham gia các hoạt động đối ngoại trực tuyến",Web,solution-design.md#FR-UC-60,UC-FR-UC-60,API-FR-UC-60 / ERD-FR-UC-60,TC-FR-UC-60,PASS
+FR-UC-61,Batch 1,"Báo cáo thống kê hội thảo",Web,solution-design.md#FR-UC-61,UC-FR-UC-61,API-FR-UC-61 / ERD-FR-UC-61,TC-FR-UC-61,PASS
+FR-UC-62,Batch 1,"Báo cáo thống kê khen thưởng",Web,solution-design.md#FR-UC-62,UC-FR-UC-62,API-FR-UC-62 / ERD-FR-UC-62,TC-FR-UC-62,PASS
+FR-UC-63,Batch 1,"Báo cáo thống kê chuyên gia",Web,solution-design.md#FR-UC-63,UC-FR-UC-63,API-FR-UC-63 / ERD-FR-UC-63,TC-FR-UC-63,PASS
+FR-UC-64,Batch 1,"Nhận dữ liệu tài liệu theo đơn vị",Web,solution-design.md#FR-UC-64,UC-FR-UC-64,API-FR-UC-64 / ERD-FR-UC-64,TC-FR-UC-64,PASS
+FR-UC-65,Batch 1,"Nhận dữ liệu tài liệu theo nhiệm vụ",Web,solution-design.md#FR-UC-65,UC-FR-UC-65,API-FR-UC-65 / ERD-FR-UC-65,TC-FR-UC-65,PASS
+FR-UC-66,Batch 1,"Tra cứu dữ liệu văn bản hợp tác quốc tế về pháp luật",Web,solution-design.md#FR-UC-66,UC-FR-UC-66,API-FR-UC-66 / ERD-FR-UC-66,TC-FR-UC-66,PASS
+FR-UC-67,Batch 1,"Tích hợp đăng nhập nền tảng định danh và xác thực điện tử",Web,solution-design.md#FR-UC-67,UC-FR-UC-67,API-FR-UC-67 / ERD-FR-UC-67,TC-FR-UC-67,PASS
+FR-UC-68,Batch 1,"Đồng bộ thông tin người dùng",Web,solution-design.md#FR-UC-68,UC-FR-UC-68,API-FR-UC-68 / ERD-FR-UC-68,TC-FR-UC-68,PASS
+FR-UC-69,Batch 1,"Chia sẻ thông tin dashboard sang hệ thống khác",Web,solution-design.md#FR-UC-69,UC-FR-UC-69,API-FR-UC-69 / ERD-FR-UC-69,TC-FR-UC-69,PASS
+FR-UC-70,Batch 1,"Nhận dữ liệu danh mục đối tác nước ngoài",Web,solution-design.md#FR-UC-70,UC-FR-UC-70,API-FR-UC-70 / ERD-FR-UC-70,TC-FR-UC-70,PASS
+FR-UC-71,Batch 1,"Nhận dữ liệu danh mục quốc gia",Web,solution-design.md#FR-UC-71,UC-FR-UC-71,API-FR-UC-71 / ERD-FR-UC-71,TC-FR-UC-71,PASS
+FR-UC-72,Batch 1,"Nhận dữ liệu danh mục cơ quan tổ chức trong nước",Web,solution-design.md#FR-UC-72,UC-FR-UC-72,API-FR-UC-72 / ERD-FR-UC-72,TC-FR-UC-72,PASS
+FR-UC-73,Batch 1,"Nhận dữ liệu danh mục ngôn ngữ",Web,solution-design.md#FR-UC-73,UC-FR-UC-73,API-FR-UC-73 / ERD-FR-UC-73,TC-FR-UC-73,PASS
+FR-UC-74,Batch 1,"Nhận dữ liệu danh mục loại văn bản",Web,solution-design.md#FR-UC-74,UC-FR-UC-74,API-FR-UC-74 / ERD-FR-UC-74,TC-FR-UC-74,PASS
+FR-UC-75,Batch 1,"Nhận dữ liệu danh mục lĩnh vực hợp tác",Web,solution-design.md#FR-UC-75,UC-FR-UC-75,API-FR-UC-75 / ERD-FR-UC-75,TC-FR-UC-75,PASS
+FR-UC-76,Batch 1,"Nhận dữ liệu danh mục hình thức hợp tác",Web,solution-design.md#FR-UC-76,UC-FR-UC-76,API-FR-UC-76 / ERD-FR-UC-76,TC-FR-UC-76,PASS
+FR-UC-77,Batch 1,"Nhận dữ liệu danh mục loại nguồn vốn",Web,solution-design.md#FR-UC-77,UC-FR-UC-77,API-FR-UC-77 / ERD-FR-UC-77,TC-FR-UC-77,PASS
+FR-UC-78,Batch 1,"Nhận dữ liệu danh mục lĩnh vực chuyên môn",Web,solution-design.md#FR-UC-78,UC-FR-UC-78,API-FR-UC-78 / ERD-FR-UC-78,TC-FR-UC-78,PASS
+FR-UC-79,Batch 1,"Nhận dữ liệu danh mục hình thức khen thưởng",Web,solution-design.md#FR-UC-79,UC-FR-UC-79,API-FR-UC-79 / ERD-FR-UC-79,TC-FR-UC-79,PASS
+FR-UC-80,Batch 1,"Nhận dữ liệu danh mục phân loại đoàn",Web,solution-design.md#FR-UC-80,UC-FR-UC-80,API-FR-UC-80 / ERD-FR-UC-80,TC-FR-UC-80,PASS
+FR-UC-81,Batch 1,"Nhận dữ liệu danh mục nguồn kinh phí",Web,solution-design.md#FR-UC-81,UC-FR-UC-81,API-FR-UC-81 / ERD-FR-UC-81,TC-FR-UC-81,PASS
+FR-UC-82,Batch 1,"Nhận dữ liệu danh mục danh nghĩa ký",Web,solution-design.md#FR-UC-82,UC-FR-UC-82,API-FR-UC-82 / ERD-FR-UC-82,TC-FR-UC-82,PASS
+FR-UC-83,Batch 1,"Đồng bộ thông tin đơn vị",Web,solution-design.md#FR-UC-83,UC-FR-UC-83,API-FR-UC-83 / ERD-FR-UC-83,TC-FR-UC-83,PASS
+FR-UC-84,Batch 1,"Chia sẻ thông tin điều ước quốc tế, thỏa thuận quốc tế",Web,solution-design.md#FR-UC-84,UC-FR-UC-84,API-FR-UC-84 / ERD-FR-UC-84,TC-FR-UC-84,PASS
+FR-UC-85,Batch 1,"Chia sẻ thông tin chương trình dự án",Web,solution-design.md#FR-UC-85,UC-FR-UC-85,API-FR-UC-85 / ERD-FR-UC-85,TC-FR-UC-85,PASS
+FR-UC-86,Batch 1,"Chia sẻ danh sách chuyên gia",Web,solution-design.md#FR-UC-86,UC-FR-UC-86,API-FR-UC-86 / ERD-FR-UC-86,TC-FR-UC-86,PASS
+FR-UC-87,Batch 1,"Chia sẻ thông tin hội nghị hội thảo",Web,solution-design.md#FR-UC-87,UC-FR-UC-87,API-FR-UC-87 / ERD-FR-UC-87,TC-FR-UC-87,PASS
+FR-UC-88,Batch 1,"Chia sẻ Báo cáo kinh nghiệm quốc tế (ngoài chương trình dự án)",Web,solution-design.md#FR-UC-88,UC-FR-UC-88,API-FR-UC-88 / ERD-FR-UC-88,TC-FR-UC-88,PASS
+FR-UC-89,Batch 1,"Chia sẻ thông tin đoàn",Web,solution-design.md#FR-UC-89,UC-FR-UC-89,API-FR-UC-89 / ERD-FR-UC-89,TC-FR-UC-89,PASS

@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# IDE / System
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Temp scratch
+brain/
+scratch/
